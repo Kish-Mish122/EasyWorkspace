@@ -1,0 +1,115 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "E:/EasyOffice/build/excel/EasySheets_autogen",
+	"CMAKE_BINARY_DIR" : "E:/EasyOffice/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/EasyOffice/build/excel",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/EasyOffice/excel",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"E:/EasyOffice/excel/CMakeLists.txt",
+		"C:/msys64/mingw64/lib/cmake/Qt6/windows/app.exe.manifest.in"
+	],
+	"CMAKE_SOURCE_DIR" : "E:/EasyOffice",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "E:/EasyOffice/build/excel/EasySheets_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "EasySheets_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"E:/EasyOffice/excel/src/ChartDialog.h",
+			"Mu",
+			"UVLADIE3JM/moc_ChartDialog.cpp",
+			null
+		],
+		[
+			"E:/EasyOffice/excel/src/MainWindow.h",
+			"Mu",
+			"UVLADIE3JM/moc_MainWindow.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "E:/EasyOffice/build/excel/EasySheets_autogen/include",
+	"MOC_COMPILATION_FILE" : "E:/EasyOffice/build/excel/EasySheets_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"MINGW_HAS_SECURE_API=1",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NEEDS_QMAIN",
+		"QT_NO_DEBUG",
+		"QT_PRINTSUPPORT_LIB",
+		"QT_WIDGETS_LIB",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"WINVER=0x0A00",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN32_WINNT=0x0A00",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"E:/EasyOffice/core/src",
+		"C:/msys64/mingw64/include/qt6/QtCore",
+		"C:/msys64/mingw64/include/qt6",
+		"C:/msys64/mingw64/share/qt6/mkspecs/win32-g++",
+		"C:/msys64/mingw64/include/qt6/QtGui",
+		"C:/msys64/mingw64/include/qt6/QtWidgets",
+		"C:/msys64/mingw64/include/qt6/QtPrintSupport",
+		"C:/msys64/mingw64/include/c++/16.2.0",
+		"C:/msys64/mingw64/include/c++/16.2.0/x86_64-w64-mingw32",
+		"C:/msys64/mingw64/include/c++/16.2.0/backward",
+		"C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include",
+		"C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include-fixed",
+		"C:/msys64/mingw64/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [ "-DWIN32" ],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/msys64/mingw64/bin/c++.exe",
+		"-std=c++20",
+		"-w",
+		"-dM",
+		"-E",
+		"C:/Program Files/CMake/share/cmake-4.4/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "E:/EasyOffice/build/excel/EasySheets_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "E:/EasyOffice/build/excel/CMakeFiles/EasySheets_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/msys64/mingw64/share/qt6/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 11,
+	"SETTINGS_FILE" : "E:/EasyOffice/build/excel/CMakeFiles/EasySheets_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "E:/EasyOffice/excel/src/ChartDialog.cpp", "Mu", null ],
+		[ "E:/EasyOffice/excel/src/MainWindow.cpp", "Mu", null ],
+		[ "E:/EasyOffice/excel/src/main.cpp", "Mu", null ]
+	],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
