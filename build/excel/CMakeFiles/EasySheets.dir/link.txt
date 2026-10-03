@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\EasySheets.dir/objects.a
-C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\EasySheets.dir/objects.a @CMakeFiles\EasySheets.dir\objects1.rsp
-C:\msys64\mingw64\bin\c++.exe -mwindows -Wl,--whole-archive CMakeFiles\EasySheets.dir/objects.a -Wl,--no-whole-archive -o EasySheets.exe -Wl,--out-implib,libEasySheets.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\EasySheets.dir\linkLibs.rsp
